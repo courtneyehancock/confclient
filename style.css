@@ -486,7 +486,7 @@ header {
 .row.main-nav {
 		top:0;
 		box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-	background-color: #001a3d !important;
+	background-color: #fff;
 	align-content: center;
    margin: 0;
 	display:flex;
@@ -499,7 +499,7 @@ header {
   background-color:#fff;
 }
 div#site-nav {
-    background-color: #00285d;
+    background-color: #f4f4f4a3;
 		z-index:-2;
 	}
 
@@ -507,7 +507,7 @@ img.uf-logo {
 	width: 250px;
   position: absolute;
   left:0;
-	border-right: 1px solid #03285d;
+	border-right: 1px solid #f8f8f8;
   padding:15px;
 }
 
