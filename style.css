@@ -1,4 +1,4 @@
-/*
+t/*
   Theme Name: Conference Client
   Theme URI:
   Author: Courtney Glancy
@@ -1118,7 +1118,7 @@ font-size:3.125em !important;
 
 @media (min-width:770px){
 	footer {
-		position:fixed;
+		position:relative;
 		bottom:0;
 		left:0;
 		width:100%;
@@ -1129,9 +1129,6 @@ font-size:3.125em !important;
 		bottom:0;
 		background-color:transparent;
 		border-top: 1px solid #001b3d;
-	}
-	body {
-	  padding-bottom:900px;
 	}
 }
 
@@ -1169,9 +1166,7 @@ font-size:3.125em !important;
 	footer {
 		height:600px;
 	}
-	body {
-		padding-bottom:600px;
-	}
+
 }
 
 @media (min-width: 999px) {
