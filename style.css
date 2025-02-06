@@ -497,14 +497,12 @@ header {
 	align-items:center;
 }
 .main-nav {
-	position: fixed;
 	z-index: 2;
 	width: 100%;
   background-color:#fff;
 }
 div#site-nav {
     background-color: #f4f4f4a3;
-		z-index:-2;
 	}
 
 img.uf-logo {
