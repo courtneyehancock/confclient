@@ -181,13 +181,13 @@ h1, h2, h3, h4, h5, h6, p {
 
 
 a {
-	color: #ff590e;
-	text-decoration: none;
+	color: #00529b;
+	text-decoration: underline;
 }
 
 a:hover {
-	color: #00529b;
-	text-decoration: none;
+	color: #00285d;
+	font-weight; bolder;
 }
 
 a.aa {
